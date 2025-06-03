@@ -1,0 +1,2 @@
+C:/Users/chewk/OneDrive/Desktop/2.52/android/app/.cxx/Debug/3r2rc5b1/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/chewk/OneDrive/Desktop/2.52/android/app/.cxx/Debug/3r2rc5b1/armeabi-v7a/CMakeFiles/rebuild_cache.dir

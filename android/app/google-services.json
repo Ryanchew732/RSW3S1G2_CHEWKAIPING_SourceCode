@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1084605268136",
+    "project_id": "docappointment-ca438",
+    "storage_bucket": "docappointment-ca438.firebasestorage.app",
+    "firebase_url": "https://docappointment-ca438-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084605268136:android:5c29a938e1cedfc8c2029d",
+        "android_client_info": {
+          "package_name": "com.example.EASS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGuJgJyaJthTxkL-_B_0PPRpNfmm4NSXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

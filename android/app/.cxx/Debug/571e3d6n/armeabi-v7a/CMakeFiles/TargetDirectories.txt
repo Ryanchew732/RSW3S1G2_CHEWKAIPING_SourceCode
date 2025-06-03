@@ -1,0 +1,2 @@
+C:/Users/chewk/OneDrive/Desktop/FYP Test/android/app/.cxx/Debug/571e3d6n/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/chewk/OneDrive/Desktop/FYP Test/android/app/.cxx/Debug/571e3d6n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
